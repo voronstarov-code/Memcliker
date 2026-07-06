@@ -32,3 +32,4 @@ jobs:
         with:
           name: memclicker.apk
           path: bin/*.apk
+          
